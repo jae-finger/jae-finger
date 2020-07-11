@@ -1,4 +1,6 @@
-### Hi there 👋
+### hi! you found my github repo
+🔭 I’m currently working on [a small project on visualizing student grades](https://github.com/jae-finger/sis_demo)
+📫 How to reach me: jaefinger(at)gmail(dot)com
 
 <!--
 **jae-finger/jae-finger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
