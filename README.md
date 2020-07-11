@@ -1,5 +1,6 @@
 ### hi! you found my github repo
 🔭 I’m currently working on [a small project on visualizing student grades](https://github.com/jae-finger/sis_demo)
+
 📫 How to reach me: jaefinger(at)gmail(dot)com
 
 <!--
