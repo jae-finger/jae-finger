@@ -1,6 +1,9 @@
 ### Hi! You found my github👋
 
 📫 How to reach me: jaefinger(at)gmail(dot)com
+🔭 I’m currently working on Augie Bot -- a twitter chatbot about my miniature poodle, Augie the doggie. You can view it here: twitter.com/augiethedoggy
+🌱 I’m currently learning about automation via 'Automate the Boring Stuff with Python' :D
+
 <!--
 **jae-finger/jae-finger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
