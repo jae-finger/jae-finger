@@ -1,6 +1,6 @@
 ### Hi!👋 You found my github!
 
-I'm a data scientist focused on biology, education, and health. Lambda school alumnus.
+I'm a data scientist focused on biology, education, and health. Lambda school alumnus. For a better look at my projects, check out my [portfolio](https://jae-finger.github.io/)!
 
 📫 How to reach me: jaefinger(at)gmail(dot)com
 
