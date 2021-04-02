@@ -4,9 +4,9 @@ I'm a data scientist focused on biology, education, and health. Lambda school al
 
 📫 How to reach me: jaefinger(at)gmail(dot)com
 
-🔭 I’m currently working on Augie Bot -- a twitter chatbot about my miniature poodle, Augie the doggie. You can view it [here:](https://www.twitter.com/augiethedog).
+🔭 I’m currently working on Augie Bot -- a twitter chatbot about my miniature poodle, Augie the doggie. You can view it [here:](https://www.twitter.com/augiethedog)
 
-🌱 I’m currently learning about machine learning via the book: [Approach (almost) any Machine Learning Problem](https://www.amazon.com/Approaching-Almost-Machine-Learning-Problem-ebook/dp/B089P13QHT).
+🌱 I’m currently learning about machine learning via the book: [Approach (almost) any Machine Learning Problem](https://www.amazon.com/Approaching-Almost-Machine-Learning-Problem-ebook/dp/B089P13QHT)
 
 <!--
 **jae-finger/jae-finger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
