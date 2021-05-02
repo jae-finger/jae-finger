@@ -6,7 +6,7 @@ I'm a data scientist focused on biology, education, and health. Lambda school al
 
 🔭 I’m currently working on Augie Bot -- a twitter chatbot about my miniature poodle, Augie the doggie. You can view it [here](https://www.twitter.com/augiethedog)
 
-🌱 I’m currently learning about machine learning via the book: [Approach (almost) any Machine Learning Problem](https://www.amazon.com/Approaching-Almost-Machine-Learning-Problem-ebook/dp/B089P13QHT)
+🌱 I’m currently learning about machine learning via the book: [Build a Career in Data Science](https://www.manning.com/books/build-a-career-in-data-science)!
 
 <!--
 **jae-finger/jae-finger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
