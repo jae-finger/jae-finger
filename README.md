@@ -2,10 +2,6 @@
 
 I'm a data scientist focused on biology, education, and health. Lambda school alumnus. For a better look at my projects, check out my [portfolio](https://jae-finger.github.io/)!
 
-📫 How to reach me: jaefinger(at)gmail(dot)com
-
-🔭 I’m currently working on Augie Bot -- a twitter chatbot about my miniature poodle, Augie the doggie. You can view it [here](https://www.twitter.com/augiethedog)
-
 🌱 I’m currently learning about data science careers via the book: [Build a Career in Data Science](https://www.manning.com/books/build-a-career-in-data-science)
 
 <!--
