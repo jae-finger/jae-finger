@@ -2,7 +2,7 @@
 
 I'm a data scientist focused on biology, education, and health. Lambda school alumnus. For a better look at my projects, check out my [portfolio](https://jae-finger.github.io/)!
 
-🌱 I’m currently learning about data science careers via the book: [Machine Learning with Python Cookbook](https://www.oreilly.com/library/view/machine-learning-with/9781491989371/)
+🌱 I’m currently learning more about standardized machine learning via the book: [Machine Learning with Python Cookbook](https://www.oreilly.com/library/view/machine-learning-with/9781491989371/)
 
 <!--
 **jae-finger/jae-finger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
