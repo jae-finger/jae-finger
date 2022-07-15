@@ -1,6 +1,6 @@
-### Hi!:bowtie: You found my github!
+### Hi! :mechanical_arm: You found my github!
 
-I'm a data scientist focused on biology, education, and health. I have a masters in evolutionary ecology & am aLambda school alumnus. 
+I'm a data scientist focused on biology, education, and health as well as a Lambda school alumnus. 
 
 For a better look at my projects, check out my [portfolio](https://jae-finger.github.io/)!
 
