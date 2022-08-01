@@ -4,4 +4,4 @@ I'm a data scientist focused on biology, education, and health as well as a Lamb
 
 For a better look at my projects, check out my [portfolio](https://jae-finger.github.io/)!
 
-🌱 I’m currently learning more about python data cleaning & visualizations via: [Effective Pandas](https://store.metasnake.com/effective-pandas-book)
+🌱 I’m currently learning more about python data manipulation via [Effective Pandas](https://store.metasnake.com/effective-pandas-book)
