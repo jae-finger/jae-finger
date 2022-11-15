@@ -19,11 +19,6 @@
 </div>
 
 <hr>
-<div align="center">
-  <img src="https://media.giphy.com/media/sRFEa8lbeC7zbcIZZR/giphy.gif" width="600" height="300"/>
-</div>
-
-
 ### Hi! :mechanical_arm: You found my github--
 
 I am:
