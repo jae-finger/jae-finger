@@ -1,4 +1,5 @@
 <div id="header" align="center">
+  <h1>🔥 Hi! You found Jon's github somehow 🔥</h1>
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="65%"/>
 </div>
 
@@ -19,8 +20,6 @@
 </div>
 
 <hr>
-
-### 🔥 Hi! You found my github somehow 🔥
 
 I am:
   - 🧮 a data scientist 
