@@ -41,4 +41,3 @@ I am:
   ### Stats & More!
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jae-finger&theme=dark&border_radius=3&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jae-finger&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<a rel="me" href="https://data-folks.masto.host/@jonfinger">Mastodon</a>
