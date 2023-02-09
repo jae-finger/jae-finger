@@ -19,6 +19,8 @@
   <img src="https://komarev.com/ghpvc/?username=jae-finger&style=flat-square&color=blue" alt=""/>
 </div>
 
+<a rel="me" href="https://data-folks.masto.host/@jonfinger">Mastodon</a>
+
 <hr>
 
 I am:
