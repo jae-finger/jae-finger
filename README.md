@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>🔥 Hi! You found Jon's github somehow 🔥</h1>
+  <h1>🔥 Hi! You found Jon's Github (somehow) 🔥</h1>
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="65%"/>
 </div>
 
@@ -25,7 +25,7 @@ I am:
   - 🧮 a data scientist 
   - 🏠 living in Chicagoland  
   - 🧪 focused on biology, education, and health
-  - 🎓 master in biology but spent way too long in a PhD program for evolutionary biology
+  - 🎓 masters in biology but spent way too long in a PhD program for evolutionary biology
   - 🚀 an OG Lambda school alumnus
   - 🌱 currently learning more about python data manipulation via [Effective Pandas](https://store.metasnake.com/effective-pandas-book)
 
