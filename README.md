@@ -23,7 +23,7 @@
 
 I am:
   - 🧮 a data scientist 
-  - 🏠 living in Chicagoland  
+  - 🏠 living in Chicago  
   - 🧪 focused on biology, education, and health
   - 🎓 a master of biology but spent way too long in a PhD program for evolutionary biology
   - 🚀 an OG Lambda school alumnus
