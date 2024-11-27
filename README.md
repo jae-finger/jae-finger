@@ -23,11 +23,11 @@
 
 I am:
   - 🧮 a data scientist 
-  - 🏠 living in Chicago  
+  - 🏠 living in California  
   - 🧪 focused on biology, education, and health
-  - 🎓 a master of biology but spent way too long in a PhD program for evolutionary biology
+  - 🎓 a master of biology
   - 🚀 an OG Lambda school alumnus
-  - 🌱 currently learning more about pytorch and scikit-learn via: [ML w/ Pytorch & ScikitLearn](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312)
+  - 🌱 currently learning more about LangChain and AI Agents
 
 ### Languages & Tools
 <div>
