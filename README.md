@@ -10,9 +10,6 @@
   <a href="https://jae-finger.github.io">
     <img src="https://img.shields.io/badge/portfolio-➡-lightgrey?style=for-the-badge&logo=appveyor&logo=youtube&logoColor=white" alt="portfolio badge"/>
   </a>
-  <a href="https://twitter.com/jonathanfinger">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 
 <div id="counter" align="center">
