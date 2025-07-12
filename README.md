@@ -24,7 +24,7 @@ I am:
   - 🧪 focused on biology, education, and health
   - 🎓 a master of biology
   - 🚀 an OG Lambda school alumnus
-  - 🌱 currently learning more about LangChain and AI Agents
+  - ❤️ currently loving LangChain and AI Agents
 
 ### Languages & Tools
 <div>
